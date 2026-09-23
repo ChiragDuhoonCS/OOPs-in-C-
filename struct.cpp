@@ -32,4 +32,23 @@ int main() {
 
 
 
-   
+    cout << "Name:  " << s1.name << endl;
+    cout << "Grade:  " << s1.grade << endl;
+    cout << "Rollno:  " << s1.rollno << endl;
+
+    cout << "===================================" << endl;
+
+    cout << "Name:  " << s2.name << endl;
+    cout << "Grade:  " << s2.grade << endl;
+    cout << "Rollno:  " << s2.rollno << endl;
+
+    cout << "===================================" << endl;
+
+    cout << "Name:  " << s3.name << endl;
+    cout << "Grade:  " << s3.grade << endl;
+    cout << "Rollno:  " << s3.rollno << endl;
+
+
+    return 0;
+
+}
